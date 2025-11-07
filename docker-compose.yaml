@@ -1,0 +1,8 @@
+services:
+  hfconds-plotly-hourly:
+    container_name: hfconds-plotly-hourly
+    image: hammusings/hfconds-plotly-hourly-generator:latest
+    restart: unless-stopped
+    volumes:
+      - /web/server/image/folder:/home/plotly/output
+    network: {}
