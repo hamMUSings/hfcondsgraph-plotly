@@ -1,4 +1,0 @@
-curl -H "Accept: application/xml" -o output.xml "https://www.hamqsl.com/solarxml.php"
- xml_grep 'atom[@name="O2_110"]' gs3.r 
- 
- grep 12m-10 output.xml | grep day | grep -o -P '(?<=>).*(?=<)'

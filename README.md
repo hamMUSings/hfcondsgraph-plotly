@@ -11,10 +11,10 @@ This docker container reformats data from http://hamqsl.com⁠ to two png images
 
 The same color scale is used on all images:
 
-Dark Teal -- Ideal Condition
-Teal -- Good Condition
-Goldenrod -- Mediocre Condition
-Dark Gray -- Lousy Condition
+1. **Dark Teal** -- Ideal Condition
+2. **Teal** -- Good Condition
+3. **Goldenrod** -- Mediocre Condition
+4. **Dark Gray** -- Lousy Condition
 
 If there is no color on the graph then there no easily interpret-able range and/or there is no top end to the range.
 
