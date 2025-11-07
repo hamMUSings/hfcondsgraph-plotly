@@ -57,7 +57,7 @@ Summary of geomagnetic field conditions as reported by hamqsl.com. This is a cat
 These are simple display of the reported data values with no ranges or coloring to indicate quality or quantity. These are left to the user to evaluate on their own.
 
 # Docker
-Pre-built docker image available at  [Docker Hub](https://hub.docker.com/repository/docker/hammusings/hfconds-plotly-hourly-generator/general)
+Pre-built docker image available at  [Docker Hub](https://hub.docker.com/r/hammusings/hfconds-plotly-hourly-generator)
 
 # For Detailed Explaination of Measures
 Visit Paul's [excellent explanation page on hamqsl.com](https://www.hamqsl.com/solar2.html#usingdata)
