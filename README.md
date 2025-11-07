@@ -18,7 +18,7 @@ The same color scale is used on all images:
 
 If there is no color on the graph then there no easily interpret-able range and/or there is no top end to the range.
 
-Date and times on both graphs are in UTC. and  
+Date and times on both graphs are in UTC.
 
 ## HF Conditions Sunburst
 
