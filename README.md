@@ -11,10 +11,10 @@ This docker container reformats data from http://hamqsl.com⁠ to two png images
 
 The same color scale is used on all images:
 
-1. ![Dark teal](https://github.com/hamMUSings/hfcondsgraph-plotly/blob/main/example_images/color_examples/darkteal.png)**Dark Teal** -- Ideal Condition
-2. **Teal** -- Good Condition
-3. **Goldenrod** -- Mediocre Condition
-4. **Light Gray** -- Lousy Condition
+1. ![Dark Teal Sample](https://github.com/hamMUSings/hfcondsgraph-plotly/blob/main/example_images/color_examples/darkteal.png) **Dark Teal** -- Ideal Condition
+2. ![Teal Sample](https://github.com/hamMUSings/hfcondsgraph-plotly/blob/main/example_images/color_examples/teal.png) **Teal** -- Good Condition
+3. ![Goldenrod Sample](https://github.com/hamMUSings/hfcondsgraph-plotly/blob/main/example_images/color_examples/goldenrod.png) **Goldenrod** -- Mediocre Condition
+4. ![Lightgray Sample](https://github.com/hamMUSings/hfcondsgraph-plotly/blob/main/example_images/color_examples/lightgray.png) **Light Gray** -- Lousy Condition
 
 If there is no color on the graph then there no easily interpret-able range and/or there is no top end to the range.
 
