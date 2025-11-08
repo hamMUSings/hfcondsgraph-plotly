@@ -16,7 +16,8 @@ The same color scale is used on all images:
 3. ![Goldenrod Sample](https://github.com/hamMUSings/hfcondsgraph-plotly/blob/main/example_images/color_examples/goldenrod.png) **Goldenrod** -- Mediocre Condition
 4. ![Lightgray Sample](https://github.com/hamMUSings/hfcondsgraph-plotly/blob/main/example_images/color_examples/lightgray.png) **Light Gray** -- Lousy Condition
 
-If there is no color on the graph then there no easily interpret-able range and/or there is no top end to the range.
+> [!IMPORTANT]
+> If there is no color on the graph then there no easily interpret-able range and/or there is no top end to the range.
 > [!NOTE]
 > Date and times on both graphs are in UTC.
 
