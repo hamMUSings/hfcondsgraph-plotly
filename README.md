@@ -17,19 +17,19 @@ The same color scale is used on all images:
 4. ![Lightgray Sample](https://github.com/hamMUSings/hfcondsgraph-plotly/blob/main/example_images/color_examples/lightgray.png) **Light Gray** -- Lousy Condition
 
 If there is no color on the graph then there no easily interpret-able range and/or there is no top end to the range.
-[!NOTE]
-Date and times on both graphs are in UTC.
+> [!NOTE]
+> Date and times on both graphs are in UTC.
 
 ## HF Conditions Sunburst
-[!NOTE]
-HF Conditions image date/time is representative of the time the script ran in the docker container.
+> [!NOTE]
+> HF Conditions image date/time is representative of the time the script ran in the docker container.
 
 The top half represents day conditions while the bottom half is the conditions at night.  The bands are ordered highest band on the left moving to the lower bands on the right. This is mirrored in both the day and night conditions. Each slice is colored with Teal, Goldenrod, or Light Gray depending on the estimated conditions.  All units are labeled as well.
 
 
 ## Space Weather 
-[!NOTE]
-Date is as reported by hamqsl.com and represents the date of the data.
+> [!NOTE]
+> Date is as reported by hamqsl.com and represents the date of the data.
 
 ### Gauge / Indicator Charts - Solar Flux Index, etc
 Each indicator chart either has the scale in color behind the bar or the bar has a white background. If the indicator has a white background then bar is always gray and there is no easy range to map.
