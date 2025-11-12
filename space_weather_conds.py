@@ -377,16 +377,16 @@ elif geoMAG == 'UNSETTLD': #confirmed
 elif geoMAG == 'ACTIVE': #confirmed
     text_color = ['goldenrod','black','black','black']
     geoMAG='Active'
-elif geoMAG == 'MINOR':
+elif geoMAG == 'MIN STRM':
     text_color = ['darkgray','black','black','black']
     geoMAG='Minor Storm'
-elif geoMAG == 'MAJOR':
+elif geoMAG == 'MAJ STRM':
     text_color = ['darkgray','black','black','black']
     geoMAG='Major Storm'
-elif geoMAG == 'SEVERE':
+elif geoMAG == 'SEV STRM': #confirmed
     text_color = ['lightgray','black','black','black']
     geoMAG='Severe Storm'
-elif geoMAG == 'EXTREME':
+elif geoMAG == 'EXT STRM':
     text_color = ['lightgray','black','black','black']
     geoMAG='Extreme Storm'
 else:
